@@ -1,0 +1,203 @@
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.MainScreen.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.TodayOrders.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.ClientBase.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.OrdersOfClient.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.OrderForm.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.View.ActualOrderForm.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.PhoneOfClient.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.AuthAdmin.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.YouSureContact.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.AddContact.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.AddClient.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.SearchClients.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.AddOrder.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.LostClients.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Statistic.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.View.Login.Login.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.Buffers.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.Memory.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.Text.Json.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.ValueTuple.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.Buffers.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.Memory.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.Text.Json.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\System.ValueTuple.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\System.Buffers.dll
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\System.Memory.dll
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\System.Text.Json.dll
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\System.ValueTuple.dll
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\System.Buffers.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\System.Memory.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\System.Text.Json.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\bin\Debug\System.ValueTuple.xml
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.View.Login.Login.resources
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.AddClient.resources
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.AuthAdmin.resources
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.AddContact.resources
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.YouSureContact.resources
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.OrdersOfClient.resources
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.View.ActualOrderForm.resources
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.MainScreen.resources
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.OrderForm.resources
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.ClientBase.resources
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.AddOrder.resources
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Statistic.resources
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.LostClients.resources
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.SearchClients.resources
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.PhoneOfClient.resources
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.TodayOrders.resources
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Artem\Desktop\Курсач ООП\Allready Works NetWork\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.Report.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.exe.manifest
+C:\Users\Artem\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.application
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.Report.resources
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.TrustInfo.xml
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.exe.manifest
+C:\Users\Artem\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.application
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\CourseWork.exe.manifest
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\CourseWork.application
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\System.Buffers.dll
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\System.Memory.dll
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\System.Text.Json.dll
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\System.ValueTuple.dll
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\System.Buffers.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\System.Memory.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\System.Text.Json.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\bin\Debug\System.ValueTuple.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Login.Login.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.AddClient.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.AuthAdmin.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.AddContact.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.Report.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.YouSureContact.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.OrdersOfClient.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.ActualOrderForm.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.MainScreen.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.OrderForm.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.ClientBase.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.AddOrder.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Statistic.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.LostClients.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.SearchClients.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.PhoneOfClient.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.TodayOrders.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.TrustInfo.xml
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.exe.manifest
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.application
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.DeliverStat.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.TopClient.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Salery.resources
+C:\Users\Artem\Desktop\CourseWork2\CourseWork\CourseWork\obj\Debug\CourseWork.View.Modal.Display.OtherForm.resources
